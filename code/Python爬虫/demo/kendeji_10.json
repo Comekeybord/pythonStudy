@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 374
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 91,
+      "storeName": "闻堰物美",
+      "addressDetail": "闻堰镇万达中路与三江路交汇处物美超市一楼",
+      "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 92,
+      "storeName": "义蓬购物中心DT",
+      "addressDetail": "大江东区义蓬街道义蓬中路501号",
+      "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 93,
+      "storeName": "杭州中大银泰",
+      "addressDetail": "东新路822号中大银泰城2楼L214号商铺",
+      "pro": "店内参观,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 94,
+      "storeName": "杭州萧山旺角城",
+      "addressDetail": "萧山旺角城TEL:82758676",
+      "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 95,
+      "storeName": "杭州拱墅万达",
+      "addressDetail": "石祥路和杭行路交汇处杭行路666号万达广场2027B-2028商铺",
+      "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,礼品卡,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 96,
+      "storeName": "下沙宝龙",
+      "addressDetail": "经济技术开发区宝龙商业中心3号楼1F-017，2F-016-B",
+      "pro": "点唱机,点唱机,店内参观,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 97,
+      "storeName": "义蓬乐购",
+      "addressDetail": "义蓬镇英冠天地华润万家一楼",
+      "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 98,
+      "storeName": "下沙和达城",
+      "addressDetail": "经济技术开发区2号大街993号  TEL: 85062897",
+      "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 99,
+      "storeName": "东站东广场餐厅",
+      "addressDetail": "东站到达层(负1楼)东广场",
+      "pro": "礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    },
+    {
+      "rownum": 100,
+      "storeName": "杭州三墩厚仁",
+      "addressDetail": "厚仁路313号",
+      "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "杭州市"
+    }
+  ]
+}
